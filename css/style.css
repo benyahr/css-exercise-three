@@ -19,7 +19,7 @@ nav {
 
 .restaurant-list {
   padding-top: 50px;
-  padding-left: 15px;
+  padding-left: 10px;
   width: 70%;
   background-color: #d3d3d3;
 }
@@ -31,4 +31,14 @@ nav {
   font-weight: bold;
   line-height: 1.25;
 
+}
+.content {
+  padding: 10px;
+}
+.arrow, .content {
+  display: inline-block;
+}
+
+.location {
+  border-bottom: 1px solid grey;
 }
