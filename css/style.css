@@ -42,8 +42,8 @@ nav {
 .location {
   border-bottom: 1px solid grey;
 }
-.location: hover {
-  background-color: 949494;
+.location:hover {
+  background-color: #949494;
 }
 .arrow {
   margin-top: 5px;
